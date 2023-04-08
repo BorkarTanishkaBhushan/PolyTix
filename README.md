@@ -1,2 +1,0 @@
-# PolyTix
-BLOCKCHAIN BASED NFT TICKETING SYSTEM | T1 Byte Busters | KJSIT Code Odyssey 2.0
